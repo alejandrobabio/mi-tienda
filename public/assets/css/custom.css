@@ -1,0 +1,7 @@
+input[type=submit] {
+  width: auto;
+}
+
+.zoom-80 {
+  zoom: 80%;
+}
